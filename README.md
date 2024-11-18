@@ -39,14 +39,14 @@ The main goal is to have more time to **Pwn** and less time to **Doc** by mutual
 
 If you would like to help me and sponsor this project
 
-[:heart: Sponsor Me](https://github.com/sponsors/yeln4ts)
+[:heart: Sponsor Me](https://github.com/sponsors/)
 
 Or you can send me some crypto love
 
 | Bitcoin | Ethereum |
 |:----------------------------------------:|:--------:|
 | <img src="https://user-images.githubusercontent.com/4255028/160478210-ddc3b0ec-6eeb-4112-b1f0-ff1a4ee7c074.png">| <img src="https://user-images.githubusercontent.com/4255028/160478210-ddc3b0ec-6eeb-4112-b1f0-ff1a4ee7c074.png"> |
-| BTC address: `bc1q6z2n99effsmla5mj4ctk3ya6nd76truf6qfe7y` | ETH address: `0xB76cd48CD6C098DE85928e125b44057D3B372821` |
+| BTC address: `` | ETH address: `` |
 
 # Sponsors
 
